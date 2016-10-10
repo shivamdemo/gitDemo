@@ -1,1 +1,6 @@
 abc
+<<<<<<< HEAD
+=======
+
+THis is a diver t branching
+>>>>>>> parent of 623cce3... ..
